@@ -5,8 +5,6 @@
 
 <h2>Overview</h2>
 <p>Welcome to the 8085 Microprocessor Kit Simulator! This project simulates the functionality of an 8085 microprocessor kit, providing a virtual environment to learn and experiment with microprocessor operations.</p>
-<span style="background: yellow; color: red">NOTE: THIS VERSION DOES NOT INCLUDE ERROR TESTING SO WRITE EVERYTHING CAREFULLY WHILE ENTERING COMMANDS.</span>
-
 <h2>HOW TO USE Simulator:</h2>
 <h4> FOR PC </h4>
 <em>Note - if you made a mistake during input you can press '\', for Backspace.</em>
